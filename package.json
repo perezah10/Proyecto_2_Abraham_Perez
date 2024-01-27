@@ -1,0 +1,12 @@
+{
+  "name": "proyecto_2_abraham_perez",
+  "version": "1.0.0",
+  "description": "Práctica de Node y Github ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
